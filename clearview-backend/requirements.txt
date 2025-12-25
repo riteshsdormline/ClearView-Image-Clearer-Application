@@ -1,0 +1,9 @@
+flask==3.0.0
+flask-cors==4.0.0
+opencv-python-headless==4.8.1.78
+numpy==1.26.0
+Pillow==10.1.0
+ultralytics==8.1.0
+cd clearview-backend
+source venv/bin/activate   # Windows: venv\Scripts\activate
+python app.py
