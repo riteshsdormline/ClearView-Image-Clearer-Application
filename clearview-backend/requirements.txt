@@ -1,9 +1,19 @@
+# Core Framework
 flask==3.0.0
 flask-cors==4.0.0
-opencv-python-headless==4.8.1.78
-numpy==1.26.0
+werkzeug==3.0.1
+
+# Image Processing
+opencv-python==4.8.1.78
+numpy==1.24.3
 Pillow==10.1.0
+scikit-image==0.22.0
+scipy==1.11.4
+
+# AI/ML (Optional but recommended)
 ultralytics==8.1.0
-cd clearview-backend
-source venv/bin/activate   # Windows: venv\Scripts\activate
-python app.py
+torch==2.1.0
+torchvision==0.16.0
+
+# Utilities
+python-dotenv==1.0.0
