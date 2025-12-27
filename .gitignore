@@ -16,3 +16,15 @@ dist/
 # ML models
 *.pt
 *.pth
+
+# Python
+__pycache__/
+*.pyc
+
+# Backend generated images
+clearview-backend/processed/
+
+# Android
+.gradle/
+build/
+local.properties
