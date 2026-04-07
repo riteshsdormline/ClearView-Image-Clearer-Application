@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "907279629187",
+    "project_id": "clearview-3078c",
+    "storage_bucket": "clearview-3078c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907279629187:android:223001550f670dc672d4b6",
+        "android_client_info": {
+          "package_name": "com.example.clearview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907279629187-m3djcn97qk1u94qmcfq2dukira6n4stp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clearview",
+            "certificate_hash": "409632a4e306af802b0d73e206aebbebc50a5dff"
+          }
+        },
+        {
+          "client_id": "907279629187-jpbha1lrek7kluga5sd1oej7n3h9rub2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEfT5zsvpe-e80ntNW5EF1w5yvL80SCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907279629187-jpbha1lrek7kluga5sd1oej7n3h9rub2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907279629187-0naoqb3nk1ejqf4laigot2j2gkb5i1sg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clearview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
